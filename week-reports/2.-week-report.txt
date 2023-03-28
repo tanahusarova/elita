@@ -1,0 +1,6 @@
+Tatiana Husarova
+Elita
+2. tyzden (20.3-26.3)
+plan: naprogramovat frontend kalendara po prihlaseni, okna na vyplnenie noveho eventu, vykreslenie kalendara, tlacidlo pre zobrazenie detailov v rozvrhu
+hotove: naprogramovat frontend kalendara po prihlaseni, okna na vyplnenie noveho eventu, vykreslenie kalendara, tlacidlo pre zobrazenie detailov v rozvrhu
+buduci tyzden: vyriesit autorizaciu po prihlaseni
